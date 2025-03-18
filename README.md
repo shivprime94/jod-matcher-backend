@@ -10,11 +10,11 @@ The backend service for Job Technology Matcher application, providing API endpoi
 - **Autocomplete Suggestions**: API endpoint for providing technology search suggestions
 - **MongoDB Integration**: Efficient database queries for job retrieval
 
-## Architecture
+<!-- ## Architecture
 
-This backend is part of a full-stack application with a React frontend.
-
-![Architecture Diagram](../frontend/docs/architecture-diagram.png)
+This backend is part of a full-stack application with a React frontend. -->
+<!-- 
+![Architecture Diagram](../frontend/docs/architecture-diagram.png) -->
 
 ### Backend Architecture Components
 
